@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Annotations/1_Annotations.iml" filepath="$PROJECT_DIR$/1_Annotations/1_Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Concurrency/2_Concurrency.iml" filepath="$PROJECT_DIR$/2_Concurrency/2_Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_DataStorage/3_DataStorage.iml" filepath="$PROJECT_DIR$/3_DataStorage/3_DataStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Patterns_Test/4_Patterns_Test.iml" filepath="$PROJECT_DIR$/4_Patterns_Test/4_Patterns_Test.iml" />
+    </modules>
+  </component>
+</project>
